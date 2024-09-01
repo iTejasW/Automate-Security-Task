@@ -1,7 +1,7 @@
 ## Automate Security Task
 
 ### Description: 
-A Python-based project to automate various security tasks and improve efficiency.
+ Leveraging Python, this project automates routine security tasks to improve efficiency and effectiveness.
 
 ### Key Features:
 * Automation scripts for routine security tasks
